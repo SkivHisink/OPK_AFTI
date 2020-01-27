@@ -1,0 +1,6 @@
+PE-pointer edition
+CE-console edition
+NT-don't have fool test
+F-foundation
+R-release
+MT-memory test
